@@ -1,0 +1,2802 @@
+[
+  {
+    "countryName": "Afghanistan",
+    "countryWiki": "/wiki/Afghanistan",
+    "name": "Herat",
+    "wiki": "/wiki/Herat",
+    "longitude": 62.2,
+    "latitude": 34.333333333333336
+  },
+  {
+    "countryName": "Afghanistan",
+    "countryWiki": "/wiki/Afghanistan",
+    "name": "Kabul",
+    "wiki": "/wiki/Kabul",
+    "longitude": 69.2,
+    "latitude": 34.516666666666666
+  },
+  {
+    "countryName": "Algeria",
+    "countryWiki": "/wiki/Algeria",
+    "name": "Algiers",
+    "wiki": "/wiki/Algiers",
+    "longitude": 3,
+    "latitude": 36.833333333333336
+  },
+  {
+    "countryName": "American Samoa",
+    "countryWiki": "/wiki/American_Samoa",
+    "name": "Pago Pago",
+    "wiki": "/wiki/Pago_Pago",
+    "longitude": -170.71666666666667,
+    "latitude": -14.266666666666667
+  },
+  {
+    "countryName": "Andorra",
+    "countryWiki": "/wiki/Andorra",
+    "name": "Andorra la Vella",
+    "wiki": "/wiki/Andorra_la_Vella",
+    "longitude": 1.5,
+    "latitude": 42.5
+  },
+  {
+    "countryName": "Angola",
+    "countryWiki": "/wiki/Angola",
+    "name": "Namibe",
+    "wiki": "/wiki/Namibe",
+    "longitude": 12.15,
+    "latitude": -15.166666666666666
+  },
+  {
+    "countryName": "Anguilla",
+    "countryWiki": "/wiki/Anguilla",
+    "name": "The Valley",
+    "wiki": "/wiki/The_Valley,_Anguilla",
+    "longitude": -63.05,
+    "latitude": 18.216666666666665
+  },
+  {
+    "countryName": "Argentina",
+    "countryWiki": "/wiki/Argentina",
+    "name": "Buenos Aires",
+    "wiki": "/wiki/Buenos_Aires",
+    "longitude": -58.5,
+    "latitude": -34.666666666666664
+  },
+  {
+    "countryName": "Argentina",
+    "countryWiki": "/wiki/Argentina",
+    "name": "Córdoba",
+    "wiki": "/wiki/C%C3%B3rdoba,_Argentina",
+    "longitude": -64.35,
+    "latitude": -31.533333333333335
+  },
+  {
+    "countryName": "Armenia",
+    "countryWiki": "/wiki/Armenia",
+    "name": "Yerevan",
+    "wiki": "/wiki/Yerevan",
+    "longitude": 44.516666666666666,
+    "latitude": 40.166666666666664
+  },
+  {
+    "countryName": "Aruba",
+    "countryWiki": "/wiki/Aruba",
+    "name": "Oranjestad",
+    "wiki": "/wiki/Oranjestad,_Aruba",
+    "longitude": -70.03333333333333,
+    "latitude": 12.516666666666667
+  },
+  {
+    "countryName": "Australia",
+    "countryWiki": "/wiki/Australia",
+    "name": "Adelaide",
+    "wiki": "/wiki/Adelaide",
+    "longitude": 138.58333333333334,
+    "latitude": -34.916666666666664
+  },
+  {
+    "countryName": "Australia",
+    "countryWiki": "/wiki/Australia",
+    "name": "Alice Springs",
+    "wiki": "/wiki/Alice_Springs",
+    "longitude": 133.88333333333333,
+    "latitude": -23.7
+  },
+  {
+    "countryName": "Australia",
+    "countryWiki": "/wiki/Australia",
+    "name": "Brisbane",
+    "wiki": "/wiki/Brisbane",
+    "longitude": 153.03333333333333,
+    "latitude": -27.466666666666665
+  },
+  {
+    "countryName": "Australia",
+    "countryWiki": "/wiki/Australia",
+    "name": "Canberra",
+    "wiki": "/wiki/Canberra",
+    "longitude": 149.13333333333333,
+    "latitude": -35.28333333333333
+  },
+  {
+    "countryName": "Australia",
+    "countryWiki": "/wiki/Australia",
+    "name": "Coober Pedy",
+    "wiki": "/wiki/Coober_Pedy,_South_Australia",
+    "longitude": 134.75,
+    "latitude": -28.933333333333334
+  },
+  {
+    "countryName": "Australia",
+    "countryWiki": "/wiki/Australia",
+    "name": "Darwin",
+    "wiki": "/wiki/Darwin,_Northern_Territory",
+    "longitude": 130.83333333333334,
+    "latitude": -12.466666666666667
+  },
+  {
+    "countryName": "Australia",
+    "countryWiki": "/wiki/Australia",
+    "name": "Derby",
+    "wiki": "/wiki/Derby,_Western_Australia",
+    "longitude": 123.63333333333334,
+    "latitude": -17.316666666666666
+  },
+  {
+    "countryName": "Australia",
+    "countryWiki": "/wiki/Australia",
+    "name": "Newman",
+    "wiki": "/wiki/Newman,_Western_Australia",
+    "longitude": 119.56666666666666,
+    "latitude": -23.333333333333332
+  },
+  {
+    "countryName": "Australia",
+    "countryWiki": "/wiki/Australia",
+    "name": "Perth",
+    "wiki": "/wiki/Perth,_Western_Australia",
+    "longitude": 115.83333333333333,
+    "latitude": -31.933333333333334
+  },
+  {
+    "countryName": "Australia",
+    "countryWiki": "/wiki/Australia",
+    "name": "Townsville",
+    "wiki": "/wiki/Townsville,_Queensland",
+    "longitude": 146.8,
+    "latitude": -19.216666666666665
+  },
+  {
+    "countryName": "Austria",
+    "countryWiki": "/wiki/Austria",
+    "name": "Vienna",
+    "wiki": "/wiki/Vienna",
+    "longitude": 16.366666666666667,
+    "latitude": 48.2
+  },
+  {
+    "countryName": "Azerbaijan",
+    "countryWiki": "/wiki/Azerbaijan",
+    "name": "Baku",
+    "wiki": "/wiki/Baku",
+    "longitude": 49.88333333333333,
+    "latitude": 40.36666666666667
+  },
+  {
+    "countryName": "Bahamas",
+    "countryWiki": "/wiki/Bahamas",
+    "name": "Nassau",
+    "wiki": "/wiki/Nassau,_Bahamas",
+    "longitude": -77.48333333333333,
+    "latitude": 25.05
+  },
+  {
+    "countryName": "Bahrain",
+    "countryWiki": "/wiki/Bahrain",
+    "name": "Al-Manamah",
+    "wiki": "/wiki/Al-Manamah",
+    "longitude": 50.56666666666667,
+    "latitude": 26.216666666666665
+  },
+  {
+    "countryName": "Bangladesh",
+    "countryWiki": "/wiki/Bangladesh",
+    "name": "Dhaka",
+    "wiki": "/wiki/Dhaka",
+    "longitude": 90.41666666666667,
+    "latitude": 23.716666666666665
+  },
+  {
+    "countryName": "Barbados",
+    "countryWiki": "/wiki/Barbados",
+    "name": "Bridgetown",
+    "wiki": "/wiki/Bridgetown",
+    "longitude": -59.61666666666667,
+    "latitude": 13.1
+  },
+  {
+    "countryName": "Belarus",
+    "countryWiki": "/wiki/Belarus",
+    "name": "Minsk",
+    "wiki": "/wiki/Minsk",
+    "longitude": 27.5,
+    "latitude": 53.85
+  },
+  {
+    "countryName": "Belgium",
+    "countryWiki": "/wiki/Belgium",
+    "name": "Brussels",
+    "wiki": "/wiki/Brussels",
+    "longitude": 4.333333333333333,
+    "latitude": 50.833333333333336
+  },
+  {
+    "countryName": "Belize",
+    "countryWiki": "/wiki/Belize",
+    "name": "Belmopan",
+    "wiki": "/wiki/Belmopan",
+    "longitude": -88.8,
+    "latitude": 17.216666666666665
+  },
+  {
+    "countryName": "Benin",
+    "countryWiki": "/wiki/Benin",
+    "name": "Porto-Novo",
+    "wiki": "/wiki/Porto-Novo",
+    "longitude": 2.6166666666666667,
+    "latitude": 6.483333333333333
+  },
+  {
+    "countryName": "Bermuda",
+    "countryWiki": "/wiki/Bermuda",
+    "name": "Hamilton",
+    "wiki": "/wiki/Hamilton,_Bermuda",
+    "longitude": -64.8,
+    "latitude": 32.3
+  },
+  {
+    "countryName": "Bhutan",
+    "countryWiki": "/wiki/Bhutan",
+    "name": "Thimphu",
+    "wiki": "/wiki/Thimphu",
+    "longitude": 89.71666666666667,
+    "latitude": 27.533333333333335
+  },
+  {
+    "countryName": "Bolivia",
+    "countryWiki": "/wiki/Bolivia",
+    "name": "La Paz",
+    "wiki": "/wiki/La_Paz,_Bolivia",
+    "longitude": -68.16666666666667,
+    "latitude": -16.5
+  },
+  {
+    "countryName": "Bosnia and Herzegovina",
+    "countryWiki": "/wiki/Bosnia_and_Herzegovina",
+    "name": "Sarajevo",
+    "wiki": "/wiki/Sarajevo",
+    "longitude": 18.383333333333333,
+    "latitude": 43.85
+  },
+  {
+    "countryName": "Botswana",
+    "countryWiki": "/wiki/Botswana",
+    "name": "Gaborone",
+    "wiki": "/wiki/Gaborone",
+    "longitude": 25.916666666666668,
+    "latitude": -24.75
+  },
+  {
+    "countryName": "Brazil",
+    "countryWiki": "/wiki/Brazil",
+    "name": "Belém",
+    "wiki": "/wiki/Bel%C3%A9m",
+    "longitude": -48.483333333333334,
+    "latitude": -1.45
+  },
+  {
+    "countryName": "Brazil",
+    "countryWiki": "/wiki/Brazil",
+    "name": "Brasília",
+    "wiki": "/wiki/Bras%C3%ADlia",
+    "longitude": -47.916666666666664,
+    "latitude": -15.783333333333333
+  },
+  {
+    "countryName": "Brazil",
+    "countryWiki": "/wiki/Brazil",
+    "name": "Campinas",
+    "wiki": "/wiki/Campinas",
+    "longitude": -47.05,
+    "latitude": -22.9
+  },
+  {
+    "countryName": "Brazil",
+    "countryWiki": "/wiki/Brazil",
+    "name": "Cuiaba",
+    "wiki": "/wiki/Cuiaba",
+    "longitude": -58.416666666666664,
+    "latitude": -7.25
+  },
+  {
+    "countryName": "Brazil",
+    "countryWiki": "/wiki/Brazil",
+    "name": "Manaus",
+    "wiki": "/wiki/Manaus",
+    "longitude": -60,
+    "latitude": -3.1
+  },
+  {
+    "countryName": "Brazil",
+    "countryWiki": "/wiki/Brazil",
+    "name": "Porto Velho",
+    "wiki": "/wiki/Porto_Velho",
+    "longitude": -63.9,
+    "latitude": -8.75
+  },
+  {
+    "countryName": "Brazil",
+    "countryWiki": "/wiki/Brazil",
+    "name": "Recife",
+    "wiki": "/wiki/Recife",
+    "longitude": -34.88333333333333,
+    "latitude": -8.1
+  },
+  {
+    "countryName": "Brazil",
+    "countryWiki": "/wiki/Brazil",
+    "name": "Rio de Janeiro",
+    "wiki": "/wiki/Rio_de_Janeiro",
+    "longitude": -43.233333333333334,
+    "latitude": -22.9
+  },
+  {
+    "countryName": "Brazil",
+    "countryWiki": "/wiki/Brazil",
+    "name": "Santarém",
+    "wiki": "/wiki/Santar%C3%A9m,_Brazil",
+    "longitude": -54.68333333333333,
+    "latitude": -2.4333333333333336
+  },
+  {
+    "countryName": "Brazil",
+    "countryWiki": "/wiki/Brazil",
+    "name": "São Paulo",
+    "wiki": "/wiki/S%C3%A3o_Paulo_(city)",
+    "longitude": -46.61666666666667,
+    "latitude": -23.533333333333335
+  },
+  {
+    "countryName": "British Virgin Islands",
+    "countryWiki": "/wiki/British_Virgin_Islands",
+    "name": "Road Town",
+    "wiki": "/wiki/Road_Town",
+    "longitude": -64.65,
+    "latitude": 18.466666666666665
+  },
+  {
+    "countryName": "Brunei",
+    "countryWiki": "/wiki/Brunei",
+    "name": "Bandar Seri Begawan",
+    "wiki": "/wiki/Bandar_Seri_Begawan",
+    "longitude": 114.93333333333334,
+    "latitude": 4.883333333333333
+  },
+  {
+    "countryName": "Bulgaria",
+    "countryWiki": "/wiki/Bulgaria",
+    "name": "Sofia",
+    "wiki": "/wiki/Sofia",
+    "longitude": 23.3,
+    "latitude": 42.666666666666664
+  },
+  {
+    "countryName": "Burkina",
+    "countryWiki": "/wiki/Burkina",
+    "name": "Ouagadougou",
+    "wiki": "/wiki/Ouagadougou",
+    "longitude": -1.5166666666666666,
+    "latitude": 12.366666666666667
+  },
+  {
+    "countryName": "Burundi",
+    "countryWiki": "/wiki/Burundi",
+    "name": "Bujumbura",
+    "wiki": "/wiki/Bujumbura",
+    "longitude": 29.316666666666666,
+    "latitude": -3.3666666666666667
+  },
+  {
+    "countryName": "Cambodia",
+    "countryWiki": "/wiki/Cambodia",
+    "name": "Phnom Penh",
+    "wiki": "/wiki/Phnom_Penh",
+    "longitude": 104.91666666666667,
+    "latitude": 11.55
+  },
+  {
+    "countryName": "Cameroun",
+    "countryWiki": "/wiki/Cameroun",
+    "name": "Yaoundé",
+    "wiki": "/wiki/Yaound%C3%A9",
+    "longitude": 11.583333333333334,
+    "latitude": 3.85
+  },
+  {
+    "countryName": "Canada",
+    "countryWiki": "/wiki/Canada",
+    "name": "Churchill, Manitoba",
+    "wiki": "/wiki/Churchill,_Manitoba",
+    "longitude": -94,
+    "latitude": 58.75
+  },
+  {
+    "countryName": "Canada",
+    "countryWiki": "/wiki/Canada",
+    "name": "Kugluktuk, Nunavut",
+    "wiki": "/wiki/Kugluktuk,_Nunavut",
+    "longitude": -115.35,
+    "latitude": 67.81666666666666
+  },
+  {
+    "countryName": "Canada",
+    "countryWiki": "/wiki/Canada",
+    "name": "Ottawa",
+    "wiki": "/wiki/Ottawa",
+    "longitude": -75.71666666666667,
+    "latitude": 45.416666666666664
+  },
+  {
+    "countryName": "Canada",
+    "countryWiki": "/wiki/Canada",
+    "name": "Peace River",
+    "wiki": "/wiki/Peace_River,_Alberta",
+    "longitude": -117.3,
+    "latitude": 56.25
+  },
+  {
+    "countryName": "Canada",
+    "countryWiki": "/wiki/Canada",
+    "name": "Quebec",
+    "wiki": "/wiki/Quebec_City,_Quebec",
+    "longitude": -71.25,
+    "latitude": 46.833333333333336
+  },
+  {
+    "countryName": "Canada",
+    "countryWiki": "/wiki/Canada",
+    "name": "Saskatoon",
+    "wiki": "/wiki/Saskatoon,_Saskatchewan",
+    "longitude": -101.53333333333333,
+    "latitude": 52.166666666666664
+  },
+  {
+    "countryName": "Canada",
+    "countryWiki": "/wiki/Canada",
+    "name": "Toronto",
+    "wiki": "/wiki/Toronto",
+    "longitude": -79.38333333333334,
+    "latitude": 43.65
+  },
+  {
+    "countryName": "Canada",
+    "countryWiki": "/wiki/Canada",
+    "name": "Vancouver",
+    "wiki": "/wiki/Vancouver",
+    "longitude": -123.11666666666666,
+    "latitude": 49.266666666666666
+  },
+  {
+    "countryName": "Canada",
+    "countryWiki": "/wiki/Canada",
+    "name": "Whitehorse",
+    "wiki": "/wiki/Whitehorse,_Yukon",
+    "longitude": -135.05,
+    "latitude": 60.71666666666667
+  },
+  {
+    "countryName": "Canada",
+    "countryWiki": "/wiki/Canada",
+    "name": "Winnipeg",
+    "wiki": "/wiki/Winnipeg,_Manitoba",
+    "longitude": -97.15,
+    "latitude": 49.88333333333333
+  },
+  {
+    "countryName": "Cape Verde",
+    "countryWiki": "/wiki/Cape_Verde",
+    "name": "Praia",
+    "wiki": "/wiki/Praia",
+    "longitude": -23.516666666666666,
+    "latitude": 14.916666666666666
+  },
+  {
+    "countryName": "Cayman Islands",
+    "countryWiki": "/wiki/Cayman_Islands",
+    "name": "George Town",
+    "wiki": "/wiki/George_Town,_Cayman_Islands",
+    "longitude": -81.38333333333334,
+    "latitude": 19.333333333333332
+  },
+  {
+    "countryName": "Central African Republic",
+    "countryWiki": "/wiki/Central_African_Republic",
+    "name": "Bangui",
+    "wiki": "/wiki/Bangui",
+    "longitude": 18.616666666666667,
+    "latitude": 4.383333333333334
+  },
+  {
+    "countryName": "Chad",
+    "countryWiki": "/wiki/Chad",
+    "name": "NDjamena",
+    "wiki": "/wiki/NDjamena",
+    "longitude": 14.983333333333333,
+    "latitude": 12.166666666666666
+  },
+  {
+    "countryName": "Chile",
+    "countryWiki": "/wiki/Chile",
+    "name": "Antofagasta",
+    "wiki": "/wiki/Antofagasta",
+    "longitude": -70.38333333333334,
+    "latitude": -23.666666666666668
+  },
+  {
+    "countryName": "Chile",
+    "countryWiki": "/wiki/Chile",
+    "name": "Hanga Roa",
+    "wiki": "/wiki/Hanga_Roa",
+    "longitude": -109.33333333333333,
+    "latitude": -27.083333333333332
+  },
+  {
+    "countryName": "Chile",
+    "countryWiki": "/wiki/Chile",
+    "name": "Santiago",
+    "wiki": "/wiki/Santiago,_Chile",
+    "longitude": -70.66666666666667,
+    "latitude": -33.45
+  },
+  {
+    "countryName": "Chile",
+    "countryWiki": "/wiki/Chile",
+    "name": "Puerto Williams",
+    "wiki": "/wiki/Puerto_Williams,_Chile",
+    "longitude": -67.61666666666666,
+    "latitude": -54.916666666666664
+  },
+  {
+    "countryName": "Chile",
+    "countryWiki": "/wiki/Chile",
+    "name": "Punta Arenas",
+    "wiki": "/wiki/Punta_Arenas,_Chile",
+    "longitude": -70.93333333333334,
+    "latitude": -53.166666666666664
+  },
+  {
+    "countryName": "Chile",
+    "countryWiki": "/wiki/Chile",
+    "name": "Valdivia",
+    "wiki": "/wiki/Valdivia,_Chile",
+    "longitude": -73.21666666666667,
+    "latitude": -39.666666666666664
+  },
+  {
+    "countryName": "PRC",
+    "countryWiki": "/wiki/People%27s_Republic_of_China",
+    "name": "Beijing",
+    "wiki": "/wiki/Beijing",
+    "longitude": 116.43333333333334,
+    "latitude": 39.916666666666664
+  },
+  {
+    "countryName": "PRC",
+    "countryWiki": "/wiki/People%27s_Republic_of_China",
+    "name": "Harbin",
+    "wiki": "/wiki/Harbin",
+    "longitude": 126.68333333333334,
+    "latitude": 45.75
+  },
+  {
+    "countryName": "PRC",
+    "countryWiki": "/wiki/People%27s_Republic_of_China",
+    "name": "Kunming",
+    "wiki": "/wiki/Kunming",
+    "longitude": 102.68333333333334,
+    "latitude": 25.066666666666666
+  },
+  {
+    "countryName": "PRC",
+    "countryWiki": "/wiki/People%27s_Republic_of_China",
+    "name": "Shanghai",
+    "wiki": "/wiki/Shanghai",
+    "longitude": 121.36666666666666,
+    "latitude": 31.1
+  },
+  {
+    "countryName": "PRC",
+    "countryWiki": "/wiki/People%27s_Republic_of_China",
+    "name": "Urumqi",
+    "wiki": "/wiki/Urumqi",
+    "longitude": 87.63333333333334,
+    "latitude": 43.71666666666667
+  },
+  {
+    "countryName": "PRC",
+    "countryWiki": "/wiki/People%27s_Republic_of_China",
+    "name": "Wuhan",
+    "wiki": "/wiki/Wuhan",
+    "longitude": 108.9,
+    "latitude": 30.583333333333332
+  },
+  {
+    "countryName": "Republic of China",
+    "countryWiki": "/wiki/Republic_of_China",
+    "name": "Taipei",
+    "wiki": "/wiki/Taipei",
+    "longitude": 121.53333333333333,
+    "latitude": 25.083333333333332
+  },
+  {
+    "countryName": "Cocos Islands",
+    "countryWiki": "/wiki/Cocos_Islands",
+    "name": "West Island",
+    "wiki": "/wiki/West_Island",
+    "longitude": 96.81666666666666,
+    "latitude": -12.166666666666666
+  },
+  {
+    "countryName": "Colombia",
+    "countryWiki": "/wiki/Colombia",
+    "name": "Bogotá",
+    "wiki": "/wiki/Bogot%C3%A1",
+    "longitude": -74.08333333333333,
+    "latitude": 4.6
+  },
+  {
+    "countryName": "Comoros",
+    "countryWiki": "/wiki/Comoros",
+    "name": "Moroni",
+    "wiki": "/wiki/Moroni,_Comoros",
+    "longitude": 43.266666666666666,
+    "latitude": -11.666666666666666
+  },
+  {
+    "countryName": "Congo-Brazzaville",
+    "countryWiki": "/wiki/Congo-Brazzaville",
+    "name": "Pointe Noire",
+    "wiki": "/wiki/Pointe_Noire",
+    "longitude": 11.883333333333333,
+    "latitude": -4.766666666666667
+  },
+  {
+    "countryName": "Democratic Republic of Congo",
+    "countryWiki": "/wiki/Democratic_Republic_of_Congo",
+    "name": "Kinshasa",
+    "wiki": "/wiki/Kinshasa",
+    "longitude": 15.3,
+    "latitude": -4.3
+  },
+  {
+    "countryName": "Democratic Republic of Congo",
+    "countryWiki": "/wiki/Democratic_Republic_of_Congo",
+    "name": "Kisangani",
+    "wiki": "/wiki/Kisangani",
+    "longitude": 25.233333333333334,
+    "latitude": 0.55
+  },
+  {
+    "countryName": "Democratic Republic of Congo",
+    "countryWiki": "/wiki/Democratic_Republic_of_Congo",
+    "name": "Lubumbashi",
+    "wiki": "/wiki/Lubumbashi",
+    "longitude": 27.483333333333334,
+    "latitude": -11.683333333333334
+  },
+  {
+    "countryName": "Cook Islands",
+    "countryWiki": "/wiki/Cook_Islands",
+    "name": "Avarua",
+    "wiki": "/wiki/Avarua",
+    "longitude": 159.76666666666668,
+    "latitude": -21.2
+  },
+  {
+    "countryName": "Costa Rica",
+    "countryWiki": "/wiki/Costa_Rica",
+    "name": "San José",
+    "wiki": "/wiki/San_Jos%C3%A9,_Costa_Rica",
+    "longitude": -84.08333333333333,
+    "latitude": 9.933333333333334
+  },
+  {
+    "countryName": "Côte d'Ivoire",
+    "countryWiki": "/wiki/C%C3%B4te_d%27Ivoire",
+    "name": "Abidjan",
+    "wiki": "/wiki/Abidjan",
+    "longitude": -0.08333333333333333,
+    "latitude": 5.316666666666666
+  },
+  {
+    "countryName": "Côte d'Ivoire",
+    "countryWiki": "/wiki/C%C3%B4te_d%27Ivoire",
+    "name": "Yamoussoukro",
+    "wiki": "/wiki/Yamoussoukro",
+    "longitude": -5.283333333333333,
+    "latitude": 6.816666666666666
+  },
+  {
+    "countryName": "Croatia",
+    "countryWiki": "/wiki/Croatia",
+    "name": "Zagreb",
+    "wiki": "/wiki/Zagreb",
+    "longitude": 15.966666666666667,
+    "latitude": 45.8
+  },
+  {
+    "countryName": "Cuba",
+    "countryWiki": "/wiki/Cuba",
+    "name": "Guantánamo",
+    "wiki": "/wiki/Guant%C3%A1namo",
+    "longitude": -75.23333333333333,
+    "latitude": 20.15
+  },
+  {
+    "countryName": "Cuba",
+    "countryWiki": "/wiki/Cuba",
+    "name": "Havana",
+    "wiki": "/wiki/Havana",
+    "longitude": -82.36666666666666,
+    "latitude": 23.133333333333333
+  },
+  {
+    "countryName": "Curaçao",
+    "countryWiki": "/wiki/Cura%C3%A7ao",
+    "name": "Willemstad",
+    "wiki": "/wiki/Willemstad",
+    "longitude": -68.93333333333334,
+    "latitude": 12.2
+  },
+  {
+    "countryName": "Cyprus",
+    "countryWiki": "/wiki/Cyprus",
+    "name": "Nicosia",
+    "wiki": "/wiki/Nicosia",
+    "longitude": 33.36666666666667,
+    "latitude": 35.166666666666664
+  },
+  {
+    "countryName": "Czech Republic",
+    "countryWiki": "/wiki/Czech_Republic",
+    "name": "Brno",
+    "wiki": "/wiki/Brno",
+    "longitude": 16.666666666666668,
+    "latitude": 49.21666666666667
+  },
+  {
+    "countryName": "Czech Republic",
+    "countryWiki": "/wiki/Czech_Republic",
+    "name": "Prague",
+    "wiki": "/wiki/Prague",
+    "longitude": 14.433333333333334,
+    "latitude": 50.1
+  },
+  {
+    "countryName": "Denmark",
+    "countryWiki": "/wiki/Denmark",
+    "name": "Copenhagen",
+    "wiki": "/wiki/Copenhagen",
+    "longitude": 12.416666666666666,
+    "latitude": 55.75
+  },
+  {
+    "countryName": "Djibouti",
+    "countryWiki": "/wiki/Djibouti",
+    "name": "Djibouti",
+    "wiki": "/wiki/Djibouti",
+    "longitude": 43.166666666666664,
+    "latitude": 11.55
+  },
+  {
+    "countryName": "Dominica",
+    "countryWiki": "/wiki/Dominica",
+    "name": "Roseau",
+    "wiki": "/wiki/Roseau",
+    "longitude": -61.38333333333333,
+    "latitude": 15.3
+  },
+  {
+    "countryName": "Dominican Republic",
+    "countryWiki": "/wiki/Dominican_Republic",
+    "name": "Santo Domingo",
+    "wiki": "/wiki/Santo_Domingo",
+    "longitude": -69.9,
+    "latitude": 18.466666666666665
+  },
+  {
+    "countryName": "Ecuador",
+    "countryWiki": "/wiki/Ecuador",
+    "name": "Guayaquil",
+    "wiki": "/wiki/Guayaquil",
+    "longitude": -79.83333333333333,
+    "latitude": -2.1666666666666665
+  },
+  {
+    "countryName": "Ecuador",
+    "countryWiki": "/wiki/Ecuador",
+    "name": "Quito",
+    "wiki": "/wiki/Quito",
+    "longitude": -78.5,
+    "latitude": -0.23333333333333334
+  },
+  {
+    "countryName": "Egypt",
+    "countryWiki": "/wiki/Egypt",
+    "name": "Aswan",
+    "wiki": "/wiki/Aswan",
+    "longitude": 32.93333333333333,
+    "latitude": 24.083333333333332
+  },
+  {
+    "countryName": "Egypt",
+    "countryWiki": "/wiki/Egypt",
+    "name": "Cairo",
+    "wiki": "/wiki/Cairo",
+    "longitude": 31.25,
+    "latitude": 30.05
+  },
+  {
+    "countryName": "El Salvador",
+    "countryWiki": "/wiki/El_Salvador",
+    "name": "San Salvador",
+    "wiki": "/wiki/San_Salvador",
+    "longitude": -89.16666666666667,
+    "latitude": 13.666666666666666
+  },
+  {
+    "countryName": "England",
+    "countryWiki": "/wiki/England",
+    "name": "Birmingham",
+    "wiki": "/wiki/Birmingham",
+    "longitude": -1.9,
+    "latitude": 52.46666666666667
+  },
+  {
+    "countryName": "England",
+    "countryWiki": "/wiki/England",
+    "name": "Greenwich",
+    "wiki": "/wiki/Greenwich",
+    "longitude": 0,
+    "latitude": 51.46666666666667
+  },
+  {
+    "countryName": "England",
+    "countryWiki": "/wiki/England",
+    "name": "London",
+    "wiki": "/wiki/London",
+    "longitude": -0.16666666666666666,
+    "latitude": 51.5
+  },
+  {
+    "countryName": "Equatorial Guinea",
+    "countryWiki": "/wiki/Equatorial_Guinea",
+    "name": "Malabo",
+    "wiki": "/wiki/Malabo",
+    "longitude": 8.8,
+    "latitude": 3.75
+  },
+  {
+    "countryName": "Eritrea",
+    "countryWiki": "/wiki/Eritrea",
+    "name": "Asmara",
+    "wiki": "/wiki/Asmara",
+    "longitude": 38.96666666666667,
+    "latitude": 15.333333333333334
+  },
+  {
+    "countryName": "Estonia",
+    "countryWiki": "/wiki/Estonia",
+    "name": "Tallinn",
+    "wiki": "/wiki/Tallinn",
+    "longitude": 24.716666666666665,
+    "latitude": 59.43333333333333
+  },
+  {
+    "countryName": "Ethiopia",
+    "countryWiki": "/wiki/Ethiopia",
+    "name": "Addis Ababa",
+    "wiki": "/wiki/Addis_Ababa",
+    "longitude": 38.7,
+    "latitude": 9.05
+  },
+  {
+    "countryName": "Falkland Islands",
+    "countryWiki": "/wiki/Falkland_Islands",
+    "name": "Stanley",
+    "wiki": "/wiki/Stanley,_Falkland_Islands",
+    "longitude": -57.93333333333333,
+    "latitude": -51.75
+  },
+  {
+    "countryName": "Faroe Islands",
+    "countryWiki": "/wiki/Faroe_Islands",
+    "name": "Tórshavn",
+    "wiki": "/wiki/T%C3%B3rshavn",
+    "longitude": -6.766666666666667,
+    "latitude": 62.016666666666666
+  },
+  {
+    "countryName": "Fiji Islands",
+    "countryWiki": "/wiki/Fiji",
+    "name": "Nadi",
+    "wiki": "/wiki/Nadi",
+    "longitude": 177.48333333333332,
+    "latitude": -17.783333333333335
+  },
+  {
+    "countryName": "Fiji Islands",
+    "countryWiki": "/wiki/Fiji",
+    "name": "Suva",
+    "wiki": "/wiki/Suva",
+    "longitude": 178.41666666666666,
+    "latitude": -18.133333333333333
+  },
+  {
+    "countryName": "Finland",
+    "countryWiki": "/wiki/Finland",
+    "name": "Helsinki",
+    "wiki": "/wiki/Helsinki",
+    "longitude": 25,
+    "latitude": 60.13333333333333
+  },
+  {
+    "countryName": "France",
+    "countryWiki": "/wiki/France",
+    "name": "Bordeaux",
+    "wiki": "/wiki/Bordeaux",
+    "longitude": -0.5666666666666667,
+    "latitude": 44.833333333333336
+  },
+  {
+    "countryName": "France",
+    "countryWiki": "/wiki/France",
+    "name": "Nice",
+    "wiki": "/wiki/Nice",
+    "longitude": 7.25,
+    "latitude": 43.7
+  },
+  {
+    "countryName": "France",
+    "countryWiki": "/wiki/France",
+    "name": "Paris",
+    "wiki": "/wiki/Paris",
+    "longitude": 2.3333333333333335,
+    "latitude": 48.86666666666667
+  },
+  {
+    "countryName": "French Guiana",
+    "countryWiki": "/wiki/French_Guiana",
+    "name": "Cayenne",
+    "wiki": "/wiki/Cayenne",
+    "longitude": -52.5,
+    "latitude": 4
+  },
+  {
+    "countryName": "French Guiana",
+    "countryWiki": "/wiki/French_Guiana",
+    "name": "Gambier Island",
+    "wiki": "/wiki/Gambier_Island",
+    "longitude": -135,
+    "latitude": -23.166666666666668
+  },
+  {
+    "countryName": "French Polynesia",
+    "countryWiki": "/wiki/French_Polynesia",
+    "name": "Papeete",
+    "wiki": "/wiki/Papeete",
+    "longitude": -149.56666666666666,
+    "latitude": -17.533333333333335
+  },
+  {
+    "countryName": "Gabon",
+    "countryWiki": "/wiki/Gabon",
+    "name": "Libreville",
+    "wiki": "/wiki/Libreville",
+    "longitude": 9.416666666666666,
+    "latitude": 0.5
+  },
+  {
+    "countryName": "Gambia",
+    "countryWiki": "/wiki/Gambia",
+    "name": "Banjul",
+    "wiki": "/wiki/Banjul",
+    "longitude": -16.65,
+    "latitude": 13.466666666666667
+  },
+  {
+    "countryName": "Georgia",
+    "countryWiki": "/wiki/Georgia_(country)",
+    "name": "T'bilisi",
+    "wiki": "/wiki/T%27bilisi",
+    "longitude": 44.81666666666667,
+    "latitude": 41.71666666666667
+  },
+  {
+    "countryName": "Germany",
+    "countryWiki": "/wiki/Germany",
+    "name": "Berlin",
+    "wiki": "/wiki/Berlin",
+    "longitude": 13.416666666666666,
+    "latitude": 52.53333333333333
+  },
+  {
+    "countryName": "Germany",
+    "countryWiki": "/wiki/Germany",
+    "name": "Hamburg",
+    "wiki": "/wiki/Hamburg",
+    "longitude": 9.983333333333333,
+    "latitude": 53.55
+  },
+  {
+    "countryName": "Ghana",
+    "countryWiki": "/wiki/Ghana",
+    "name": "Accra",
+    "wiki": "/wiki/Accra",
+    "longitude": -0.25,
+    "latitude": 5.55
+  },
+  {
+    "countryName": "Gibraltar",
+    "countryWiki": "/wiki/Gibraltar",
+    "name": "Gibraltar",
+    "wiki": "/wiki/Gibraltar",
+    "longitude": -5.35,
+    "latitude": 36.15
+  },
+  {
+    "countryName": "Greece",
+    "countryWiki": "/wiki/Greece",
+    "name": "Athens",
+    "wiki": "/wiki/Athens",
+    "longitude": 23.716666666666665,
+    "latitude": 37.96666666666667
+  },
+  {
+    "countryName": "Greenland",
+    "countryWiki": "/wiki/Greenland",
+    "name": "Godthåb",
+    "wiki": "/wiki/Godth%C3%A5b",
+    "longitude": -51.583333333333336,
+    "latitude": 64.16666666666667
+  },
+  {
+    "countryName": "Greenland",
+    "countryWiki": "/wiki/Greenland",
+    "name": "Qaanaaq",
+    "wiki": "/wiki/Qaanaaq",
+    "longitude": -68.5,
+    "latitude": 77.7
+  },
+  {
+    "countryName": "Grenada",
+    "countryWiki": "/wiki/Grenada",
+    "name": "Saint George's",
+    "wiki": "/wiki/St._George%27s,_Grenada",
+    "longitude": 61.733333333333334,
+    "latitude": 12.066666666666666
+  },
+  {
+    "countryName": "Guadeloupe",
+    "countryWiki": "/wiki/Guadeloupe",
+    "name": "Basse-Terre",
+    "wiki": "/wiki/Basse-Terre",
+    "longitude": -61.666666666666664,
+    "latitude": 16.166666666666668
+  },
+  {
+    "countryName": "Guam",
+    "countryWiki": "/wiki/Guam",
+    "name": "Hagåtña",
+    "wiki": "/wiki/Hag%C3%A5t%C3%B1a",
+    "longitude": 144.75,
+    "latitude": 13.466666666666667
+  },
+  {
+    "countryName": "Guatemala",
+    "countryWiki": "/wiki/Guatemala",
+    "name": "Guatemala City",
+    "wiki": "/wiki/Guatemala_City",
+    "longitude": -90.51666666666667,
+    "latitude": 14.633333333333333
+  },
+  {
+    "countryName": "Guernsey",
+    "countryWiki": "/wiki/Guernsey",
+    "name": "Saint Peter Port",
+    "wiki": "/wiki/Saint_Peter_Port",
+    "longitude": -2.533333333333333,
+    "latitude": 49.45
+  },
+  {
+    "countryName": "Guinea",
+    "countryWiki": "/wiki/Guinea",
+    "name": "Conakry",
+    "wiki": "/wiki/Conakry",
+    "longitude": -13.716666666666667,
+    "latitude": 9.483333333333333
+  },
+  {
+    "countryName": "Guiné-Bissau",
+    "countryWiki": "/wiki/Guin%C3%A9-Bissau",
+    "name": "Bissau",
+    "wiki": "/wiki/Bissau",
+    "longitude": -15.65,
+    "latitude": 11.866666666666667
+  },
+  {
+    "countryName": "Guyana",
+    "countryWiki": "/wiki/Guyana",
+    "name": "Georgetown",
+    "wiki": "/wiki/Georgetown,_Guyana",
+    "longitude": -58.166666666666664,
+    "latitude": 6.8
+  },
+  {
+    "countryName": "Haiti",
+    "countryWiki": "/wiki/Haiti",
+    "name": "Port Au Prince",
+    "wiki": "/wiki/Port_Au_Prince",
+    "longitude": -72.33333333333333,
+    "latitude": 18.533333333333335
+  },
+  {
+    "countryName": "Honduras",
+    "countryWiki": "/wiki/Honduras",
+    "name": "Tegucigalpa",
+    "wiki": "/wiki/Tegucigalpa",
+    "longitude": -87.23333333333333,
+    "latitude": 14.083333333333334
+  },
+  {
+    "countryName": "Hong Kong",
+    "countryWiki": "/wiki/Hong_Kong",
+    "name": "Hong Kong",
+    "wiki": "/wiki/Hong_Kong",
+    "longitude": 114.16666666666667,
+    "latitude": 22.25
+  },
+  {
+    "countryName": "Hungary",
+    "countryWiki": "/wiki/Hungary",
+    "name": "Budapest",
+    "wiki": "/wiki/Budapest",
+    "longitude": 19.083333333333332,
+    "latitude": 47.5
+  },
+  {
+    "countryName": "Iceland",
+    "countryWiki": "/wiki/Iceland",
+    "name": "Reykjavík",
+    "wiki": "/wiki/Reykjav%C3%ADk",
+    "longitude": -21.85,
+    "latitude": 64.15
+  },
+  {
+    "countryName": "India",
+    "countryWiki": "/wiki/India",
+    "name": "Bangalore",
+    "wiki": "/wiki/Bangalore",
+    "longitude": 77.58333333333333,
+    "latitude": 12.966666666666667
+  },
+  {
+    "countryName": "India",
+    "countryWiki": "/wiki/India",
+    "name": "Kolkata",
+    "wiki": "/wiki/Kolkata",
+    "longitude": 88.33333333333333,
+    "latitude": 22.5
+  },
+  {
+    "countryName": "India",
+    "countryWiki": "/wiki/India",
+    "name": "Delhi",
+    "wiki": "/wiki/Delhi",
+    "longitude": 77.23333333333333,
+    "latitude": 28.666666666666668
+  },
+  {
+    "countryName": "India",
+    "countryWiki": "/wiki/India",
+    "name": "Kandla",
+    "wiki": "/wiki/Kandla",
+    "longitude": 70.18333333333334,
+    "latitude": 23.05
+  },
+  {
+    "countryName": "India",
+    "countryWiki": "/wiki/India",
+    "name": "Mumbai",
+    "wiki": "/wiki/Mumbai",
+    "longitude": 74.58333333333333,
+    "latitude": 18.933333333333334
+  },
+  {
+    "countryName": "India",
+    "countryWiki": "/wiki/India",
+    "name": "Nagpur",
+    "wiki": "/wiki/Nagpur",
+    "longitude": 79.2,
+    "latitude": 21.166666666666668
+  },
+  {
+    "countryName": "Indonesia",
+    "countryWiki": "/wiki/Indonesia",
+    "name": "Jakarta",
+    "wiki": "/wiki/Jakarta",
+    "longitude": 106.75,
+    "latitude": -6.133333333333334
+  },
+  {
+    "countryName": "Iran",
+    "countryWiki": "/wiki/Iran",
+    "name": "Mashad",
+    "wiki": "/wiki/Mashad",
+    "longitude": 59.56666666666667,
+    "latitude": 36.266666666666666
+  },
+  {
+    "countryName": "Iran",
+    "countryWiki": "/wiki/Iran",
+    "name": "Shiraz",
+    "wiki": "/wiki/Shiraz,_Iran",
+    "longitude": 52.56666666666667,
+    "latitude": 29.633333333333333
+  },
+  {
+    "countryName": "Iran",
+    "countryWiki": "/wiki/Iran",
+    "name": "Tabriz",
+    "wiki": "/wiki/Tabriz",
+    "longitude": 46.3,
+    "latitude": 38.083333333333336
+  },
+  {
+    "countryName": "Iran",
+    "countryWiki": "/wiki/Iran",
+    "name": "Tehran",
+    "wiki": "/wiki/Tehran",
+    "longitude": 51.43333333333333,
+    "latitude": 35.666666666666664
+  },
+  {
+    "countryName": "Iraq",
+    "countryWiki": "/wiki/Iraq",
+    "name": "Baghdad",
+    "wiki": "/wiki/Baghdad",
+    "longitude": 44.43333333333333,
+    "latitude": 33.333333333333336
+  },
+  {
+    "countryName": "Ireland",
+    "countryWiki": "/wiki/Ireland",
+    "name": "Cork",
+    "wiki": "/wiki/Cork_(city)",
+    "longitude": -8.466666666666667,
+    "latitude": 51.9
+  },
+  {
+    "countryName": "Ireland",
+    "countryWiki": "/wiki/Ireland",
+    "name": "Dublin",
+    "wiki": "/wiki/Dublin",
+    "longitude": -6.25,
+    "latitude": 53.333333333333336
+  },
+  {
+    "countryName": "Isle of Man",
+    "countryWiki": "/wiki/Isle_of_Man",
+    "name": "Douglas",
+    "wiki": "/wiki/Douglas,_Isle_of_Man",
+    "longitude": -4.483333333333333,
+    "latitude": 54.15
+  },
+  {
+    "countryName": "Israel",
+    "countryWiki": "/wiki/Israel",
+    "name": "Jerusalem",
+    "wiki": "/wiki/Jerusalem",
+    "longitude": 35.21666666666667,
+    "latitude": 31.783333333333335
+  },
+  {
+    "countryName": "Israel",
+    "countryWiki": "/wiki/Israel",
+    "name": "Tel Aviv",
+    "wiki": "/wiki/Tel_Aviv",
+    "longitude": 34.8,
+    "latitude": 32.083333333333336
+  },
+  {
+    "countryName": "Italy",
+    "countryWiki": "/wiki/Italy",
+    "name": "Florence",
+    "wiki": "/wiki/Florence",
+    "longitude": 11.25,
+    "latitude": 43.766666666666666
+  },
+  {
+    "countryName": "Italy",
+    "countryWiki": "/wiki/Italy",
+    "name": "Naples",
+    "wiki": "/wiki/Naples",
+    "longitude": 14.283333333333333,
+    "latitude": 40.85
+  },
+  {
+    "countryName": "Italy",
+    "countryWiki": "/wiki/Italy",
+    "name": "Rome",
+    "wiki": "/wiki/Rome",
+    "longitude": 12.6,
+    "latitude": 41.8
+  },
+  {
+    "countryName": "Jamaica",
+    "countryWiki": "/wiki/Jamaica",
+    "name": "Kingston",
+    "wiki": "/wiki/Kingston,_Jamaica",
+    "longitude": -76.8,
+    "latitude": 17.966666666666665
+  },
+  {
+    "countryName": "Japan",
+    "countryWiki": "/wiki/Japan",
+    "name": "Hiroshima",
+    "wiki": "/wiki/Hiroshima",
+    "longitude": 132.45,
+    "latitude": 34.38333333333333
+  },
+  {
+    "countryName": "Japan",
+    "countryWiki": "/wiki/Japan",
+    "name": "Kagoshima",
+    "wiki": "/wiki/Kagoshima",
+    "longitude": 130.53333333333333,
+    "latitude": 31.616666666666667
+  },
+  {
+    "countryName": "Japan",
+    "countryWiki": "/wiki/Japan",
+    "name": "Kobe",
+    "wiki": "/wiki/Kobe",
+    "longitude": 135.2,
+    "latitude": 34.68333333333333
+  },
+  {
+    "countryName": "Japan",
+    "countryWiki": "/wiki/Japan",
+    "name": "Kyoto",
+    "wiki": "/wiki/Kyoto",
+    "longitude": 135.76666666666668,
+    "latitude": 35.016666666666666
+  },
+  {
+    "countryName": "Japan",
+    "countryWiki": "/wiki/Japan",
+    "name": "Nagasaki",
+    "wiki": "/wiki/Nagasaki,_Nagasaki",
+    "longitude": 129.86666666666667,
+    "latitude": 32.78333333333333
+  },
+  {
+    "countryName": "Japan",
+    "countryWiki": "/wiki/Japan",
+    "name": "Naha",
+    "wiki": "/wiki/Naha",
+    "longitude": 127.68333333333334,
+    "latitude": 26.2
+  },
+  {
+    "countryName": "Japan",
+    "countryWiki": "/wiki/Japan",
+    "name": "Osaka",
+    "wiki": "/wiki/Osaka",
+    "longitude": 135.5,
+    "latitude": 34.7
+  },
+  {
+    "countryName": "Japan",
+    "countryWiki": "/wiki/Japan",
+    "name": "Sapporo",
+    "wiki": "/wiki/Sapporo",
+    "longitude": 141.35,
+    "latitude": 43.083333333333336
+  },
+  {
+    "countryName": "Japan",
+    "countryWiki": "/wiki/Japan",
+    "name": "Tokyo",
+    "wiki": "/wiki/Tokyo",
+    "longitude": 139.75,
+    "latitude": 35.666666666666664
+  },
+  {
+    "countryName": "Jersey",
+    "countryWiki": "/wiki/Jersey",
+    "name": "Saint Helier",
+    "wiki": "/wiki/Saint_Helier",
+    "longitude": -2.1166666666666667,
+    "latitude": 49.18333333333333
+  },
+  {
+    "countryName": "Jordan",
+    "countryWiki": "/wiki/Jordan",
+    "name": "Amman",
+    "wiki": "/wiki/Amman",
+    "longitude": 35.93333333333333,
+    "latitude": 31.95
+  },
+  {
+    "countryName": "Kazakhstan",
+    "countryWiki": "/wiki/Kazakhstan",
+    "name": "Astana",
+    "wiki": "/wiki/Astana",
+    "longitude": 71.5,
+    "latitude": 51.166666666666664
+  },
+  {
+    "countryName": "Kazakhstan",
+    "countryWiki": "/wiki/Kazakhstan",
+    "name": "Petropavl",
+    "wiki": "/wiki/Petropavl",
+    "longitude": 69.21666666666667,
+    "latitude": 54.88333333333333
+  },
+  {
+    "countryName": "Kenya",
+    "countryWiki": "/wiki/Kenya",
+    "name": "Nairobi",
+    "wiki": "/wiki/Nairobi",
+    "longitude": 36.81666666666667,
+    "latitude": -1.2833333333333332
+  },
+  {
+    "countryName": "Kiribati",
+    "countryWiki": "/wiki/Kiribati",
+    "name": "Tarawa",
+    "wiki": "/wiki/South_Tarawa",
+    "longitude": 173,
+    "latitude": 1.5
+  },
+  {
+    "countryName": "Korea",
+    "countryWiki": "/wiki/Korea",
+    "name": "Seoul",
+    "wiki": "/wiki/Seoul",
+    "longitude": 127,
+    "latitude": 37.5
+  },
+  {
+    "countryName": "Kuwait",
+    "countryWiki": "/wiki/Kuwait",
+    "name": "Kuwait",
+    "wiki": "/wiki/Kuwait",
+    "longitude": 48,
+    "latitude": 29.333333333333332
+  },
+  {
+    "countryName": "Kyrgyzstan",
+    "countryWiki": "/wiki/Kyrgyzstan",
+    "name": "Bishkek",
+    "wiki": "/wiki/Bishkek",
+    "longitude": 74.76666666666667,
+    "latitude": 42.88333333333333
+  },
+  {
+    "countryName": "Laos",
+    "countryWiki": "/wiki/Laos",
+    "name": "Vientiane",
+    "wiki": "/wiki/Vientiane",
+    "longitude": 102.6,
+    "latitude": 17.966666666666665
+  },
+  {
+    "countryName": "Lebanon",
+    "countryWiki": "/wiki/Lebanon",
+    "name": "Beirut",
+    "wiki": "/wiki/Beirut",
+    "longitude": 35.5,
+    "latitude": 33.86666666666667
+  },
+  {
+    "countryName": "Lesotho",
+    "countryWiki": "/wiki/Lesotho",
+    "name": "Maseru",
+    "wiki": "/wiki/Maseru",
+    "longitude": 27.483333333333334,
+    "latitude": -29.316666666666666
+  },
+  {
+    "countryName": "Liberia",
+    "countryWiki": "/wiki/Liberia",
+    "name": "Monrovia",
+    "wiki": "/wiki/Monrovia",
+    "longitude": -10.783333333333333,
+    "latitude": 6.3
+  },
+  {
+    "countryName": "Liechtenstein",
+    "countryWiki": "/wiki/Liechtenstein",
+    "name": "Vaduz",
+    "wiki": "/wiki/Vaduz",
+    "longitude": 9.533333333333333,
+    "latitude": 47.13333333333333
+  },
+  {
+    "countryName": "Lithuania",
+    "countryWiki": "/wiki/Lithuania",
+    "name": "Vilnius",
+    "wiki": "/wiki/Vilnius",
+    "longitude": 25.316666666666666,
+    "latitude": 54.68333333333333
+  },
+  {
+    "countryName": "Luxembourg",
+    "countryWiki": "/wiki/Luxembourg",
+    "name": "Luxembourg",
+    "wiki": "/wiki/Luxembourg_(city)",
+    "longitude": 6.133333333333334,
+    "latitude": 49.61666666666667
+  },
+  {
+    "countryName": "Latvia",
+    "countryWiki": "/wiki/Latvia",
+    "name": "Riga",
+    "wiki": "/wiki/Riga",
+    "longitude": 106.16666666666667,
+    "latitude": 56.666666666666664
+  },
+  {
+    "countryName": "Libya",
+    "countryWiki": "/wiki/Libya",
+    "name": "Benghazi",
+    "wiki": "/wiki/Benghazi",
+    "longitude": 20.066666666666666,
+    "latitude": 32.11666666666667
+  },
+  {
+    "countryName": "Libya",
+    "countryWiki": "/wiki/Libya",
+    "name": "Tripoli",
+    "wiki": "/wiki/Tripoli",
+    "longitude": 13.183333333333334,
+    "latitude": 32.9
+  },
+  {
+    "countryName": "Madagascar",
+    "countryWiki": "/wiki/Madagascar",
+    "name": "Antananarivo",
+    "wiki": "/wiki/Antananarivo",
+    "longitude": 47.5,
+    "latitude": -18.866666666666667
+  },
+  {
+    "countryName": "Malawi",
+    "countryWiki": "/wiki/Malawi",
+    "name": "Lilongwe",
+    "wiki": "/wiki/Lilongwe",
+    "longitude": 33.81666666666667,
+    "latitude": -13.966666666666667
+  },
+  {
+    "countryName": "Malaysia",
+    "countryWiki": "/wiki/Malaysia",
+    "name": "George Town",
+    "wiki": "/wiki/George_Town,_Penang",
+    "longitude": 100.31666666666666,
+    "latitude": 5.416666666666667
+  },
+  {
+    "countryName": "Malaysia",
+    "countryWiki": "/wiki/Malaysia",
+    "name": "Johor Bahru",
+    "wiki": "/wiki/Johor_Bahru",
+    "longitude": 103.73333333333333,
+    "latitude": 1.4833333333333334
+  },
+  {
+    "countryName": "Malaysia",
+    "countryWiki": "/wiki/Malaysia",
+    "name": "Kota Bharu",
+    "wiki": "/wiki/Kota_Bharu",
+    "longitude": 102.25,
+    "latitude": 6.133333333333334
+  },
+  {
+    "countryName": "Malaysia",
+    "countryWiki": "/wiki/Malaysia",
+    "name": "Kota Kinabalu",
+    "wiki": "/wiki/Kota_Kinabalu",
+    "longitude": 102.16666666666667,
+    "latitude": 2.55
+  },
+  {
+    "countryName": "Malaysia",
+    "countryWiki": "/wiki/Malaysia",
+    "name": "Kuching",
+    "wiki": "/wiki/Kuching",
+    "longitude": 110.41666666666667,
+    "latitude": 1.55
+  },
+  {
+    "countryName": "Malaysia",
+    "countryWiki": "/wiki/Malaysia",
+    "name": "Kuala Lumpur",
+    "wiki": "/wiki/Kuala_Lumpur",
+    "longitude": 101.7,
+    "latitude": 3.1333333333333333
+  },
+  {
+    "countryName": "Maldives",
+    "countryWiki": "/wiki/Maldives",
+    "name": "Malé",
+    "wiki": "/wiki/Mal%C3%A9",
+    "longitude": 73.46666666666667,
+    "latitude": 4
+  },
+  {
+    "countryName": "Mali",
+    "countryWiki": "/wiki/Mali",
+    "name": "Bamako",
+    "wiki": "/wiki/Bamako",
+    "longitude": -8,
+    "latitude": 12.65
+  },
+  {
+    "countryName": "Mali",
+    "countryWiki": "/wiki/Mali",
+    "name": "Timbuktu",
+    "wiki": "/wiki/Timbuktu",
+    "longitude": -2.9833333333333334,
+    "latitude": 16.816666666666666
+  },
+  {
+    "countryName": "Malta",
+    "countryWiki": "/wiki/Malta",
+    "name": "Valletta",
+    "wiki": "/wiki/Valletta",
+    "longitude": 14.533333333333333,
+    "latitude": 35.9
+  },
+  {
+    "countryName": "Morocco",
+    "countryWiki": "/wiki/Morocco",
+    "name": "Rabat",
+    "wiki": "/wiki/Rabat",
+    "longitude": -6.85,
+    "latitude": 34.03333333333333
+  },
+  {
+    "countryName": "Marshall Islands",
+    "countryWiki": "/wiki/Marshall_Islands",
+    "name": "Majuro",
+    "wiki": "/wiki/Majuro",
+    "longitude": 171.13333333333333,
+    "latitude": 7.083333333333333
+  },
+  {
+    "countryName": "Martinique",
+    "countryWiki": "/wiki/Martinique",
+    "name": "Fort-de-France",
+    "wiki": "/wiki/Fort-de-France",
+    "longitude": -61.083333333333336,
+    "latitude": 14.6
+  },
+  {
+    "countryName": "Mauritania",
+    "countryWiki": "/wiki/Mauritania",
+    "name": "Nouakchott",
+    "wiki": "/wiki/Nouakchott",
+    "longitude": -15.966666666666667,
+    "latitude": 18.15
+  },
+  {
+    "countryName": "Mauritius",
+    "countryWiki": "/wiki/Mauritius",
+    "name": "Port Louis",
+    "wiki": "/wiki/Port_Louis",
+    "longitude": 57.5,
+    "latitude": -20.166666666666668
+  },
+  {
+    "countryName": "Mayotte",
+    "countryWiki": "/wiki/Mayotte",
+    "name": "Mamoudzou",
+    "wiki": "/wiki/Mamoudzou",
+    "longitude": 45.233333333333334,
+    "latitude": -12.783333333333333
+  },
+  {
+    "countryName": "Mexico",
+    "countryWiki": "/wiki/Mexico",
+    "name": "Chihuahua",
+    "wiki": "/wiki/Chihuahua_(Chihuahua)",
+    "longitude": -106.1,
+    "latitude": 28.666666666666668
+  },
+  {
+    "countryName": "Mexico",
+    "countryWiki": "/wiki/Mexico",
+    "name": "Guadalajara",
+    "wiki": "/wiki/Guadalajara,_Jalisco",
+    "longitude": -103.33333333333333,
+    "latitude": 20.666666666666668
+  },
+  {
+    "countryName": "Mexico",
+    "countryWiki": "/wiki/Mexico",
+    "name": "Mexico City",
+    "wiki": "/wiki/Mexico_City",
+    "longitude": -99.15,
+    "latitude": 19.4
+  },
+  {
+    "countryName": "Mexico",
+    "countryWiki": "/wiki/Mexico",
+    "name": "Tijuana",
+    "wiki": "/wiki/Tijuana",
+    "longitude": -117.01666666666667,
+    "latitude": 32.53333333333333
+  },
+  {
+    "countryName": "Mexico",
+    "countryWiki": "/wiki/Mexico",
+    "name": "Veracruz",
+    "wiki": "/wiki/Veracruz_(Veracruz)",
+    "longitude": -96.13333333333334,
+    "latitude": 19.2
+  },
+  {
+    "countryName": "Micronesia, Federated States of",
+    "countryWiki": "/wiki/Federated_States_of_Micronesia",
+    "name": "Palikir",
+    "wiki": "/wiki/Palikir",
+    "longitude": 158.21666666666667,
+    "latitude": 6.966666666666667
+  },
+  {
+    "countryName": "Moldova",
+    "countryWiki": "/wiki/Moldova",
+    "name": "Chişinău",
+    "wiki": "/wiki/Chi%C5%9Fin%C4%83u",
+    "longitude": 28.833333333333332,
+    "latitude": 47
+  },
+  {
+    "countryName": "Monaco",
+    "countryWiki": "/wiki/Monaco",
+    "name": "Monaco",
+    "wiki": "/wiki/Monaco",
+    "longitude": 7.383333333333334,
+    "latitude": 43.75
+  },
+  {
+    "countryName": "Mongolia",
+    "countryWiki": "/wiki/Mongolia",
+    "name": "Ulaanbaatar",
+    "wiki": "/wiki/Ulaanbaatar",
+    "longitude": 106.86666666666666,
+    "latitude": 47.9
+  },
+  {
+    "countryName": "Montenegro",
+    "countryWiki": "/wiki/Montenegro",
+    "name": "Podgorica",
+    "wiki": "/wiki/Podgorica",
+    "longitude": 19.283333333333335,
+    "latitude": 42.46666666666667
+  },
+  {
+    "countryName": "Montserrat",
+    "countryWiki": "/wiki/Montserrat",
+    "name": "Plymouth",
+    "wiki": "/wiki/Plymouth,_Montserrat",
+    "longitude": -62.233333333333334,
+    "latitude": 16.733333333333334
+  },
+  {
+    "countryName": "Morocco",
+    "countryWiki": "/wiki/Morocco",
+    "name": "Sidi Ifni",
+    "wiki": "/wiki/Sidi_Ifni",
+    "longitude": -10.2,
+    "latitude": 29.4
+  },
+  {
+    "countryName": "Mozambique",
+    "countryWiki": "/wiki/Mozambique",
+    "name": "Beira",
+    "wiki": "/wiki/Beira,_Mozambique",
+    "longitude": 34.86666666666667,
+    "latitude": -19.816666666666666
+  },
+  {
+    "countryName": "Mozambique",
+    "countryWiki": "/wiki/Mozambique",
+    "name": "Maputo",
+    "wiki": "/wiki/Maputo",
+    "longitude": 32.583333333333336,
+    "latitude": -25.966666666666665
+  },
+  {
+    "countryName": "Myanmar (Burma)",
+    "countryWiki": "/wiki/Myanmar",
+    "name": "Mandalay",
+    "wiki": "/wiki/Mandalay",
+    "longitude": 96.06666666666666,
+    "latitude": 21.95
+  },
+  {
+    "countryName": "Myanmar (Burma)",
+    "countryWiki": "/wiki/Myanmar",
+    "name": "Yangon",
+    "wiki": "/wiki/Yangon",
+    "longitude": 96.16666666666667,
+    "latitude": 16.783333333333335
+  },
+  {
+    "countryName": "Namibia",
+    "countryWiki": "/wiki/Namibia",
+    "name": "Lüderitz",
+    "wiki": "/wiki/L%C3%BCderitz",
+    "longitude": 15.166666666666666,
+    "latitude": -26.633333333333333
+  },
+  {
+    "countryName": "Namibia",
+    "countryWiki": "/wiki/Namibia",
+    "name": "Windhoek",
+    "wiki": "/wiki/Windhoek",
+    "longitude": 17.1,
+    "latitude": -22.566666666666666
+  },
+  {
+    "countryName": "Nepal",
+    "countryWiki": "/wiki/Nepal",
+    "name": "Kathmandu",
+    "wiki": "/wiki/Kathmandu",
+    "longitude": 85.31666666666666,
+    "latitude": 27.7
+  },
+  {
+    "countryName": "Netherlands",
+    "countryWiki": "/wiki/Netherlands",
+    "name": "Amsterdam",
+    "wiki": "/wiki/Amsterdam",
+    "longitude": 4.9,
+    "latitude": 52.35
+  },
+  {
+    "countryName": "New Caledonia",
+    "countryWiki": "/wiki/New_Caledonia",
+    "name": "Noumea",
+    "wiki": "/wiki/Noumea",
+    "longitude": 166.43333333333334,
+    "latitude": -22.266666666666666
+  },
+  {
+    "countryName": "New Zealand",
+    "countryWiki": "/wiki/New_Zealand",
+    "name": "Auckland",
+    "wiki": "/wiki/Auckland",
+    "longitude": 174.78333333333333,
+    "latitude": -36.916666666666664
+  },
+  {
+    "countryName": "New Zealand",
+    "countryWiki": "/wiki/New_Zealand",
+    "name": "Timaru",
+    "wiki": "/wiki/Timaru",
+    "longitude": 171.23333333333332,
+    "latitude": -44.38333333333333
+  },
+  {
+    "countryName": "New Zealand",
+    "countryWiki": "/wiki/New_Zealand",
+    "name": "Wellington",
+    "wiki": "/wiki/Wellington",
+    "longitude": 174.78333333333333,
+    "latitude": -41.28333333333333
+  },
+  {
+    "countryName": "Nicaragua",
+    "countryWiki": "/wiki/Nicaragua",
+    "name": "Managua",
+    "wiki": "/wiki/Managua",
+    "longitude": -86.3,
+    "latitude": 12.1
+  },
+  {
+    "countryName": "Niger",
+    "countryWiki": "/wiki/Niger",
+    "name": "Niamey",
+    "wiki": "/wiki/Niamey",
+    "longitude": 2.0833333333333335,
+    "latitude": 13.533333333333333
+  },
+  {
+    "countryName": "Nigeria",
+    "countryWiki": "/wiki/Nigeria",
+    "name": "Abuja",
+    "wiki": "/wiki/Abuja",
+    "longitude": 7.183333333333334,
+    "latitude": 9.166666666666666
+  },
+  {
+    "countryName": "Nigeria",
+    "countryWiki": "/wiki/Nigeria",
+    "name": "Kano",
+    "wiki": "/wiki/Kano",
+    "longitude": 8.516666666666667,
+    "latitude": 12
+  },
+  {
+    "countryName": "Nigeria",
+    "countryWiki": "/wiki/Nigeria",
+    "name": "Lagos",
+    "wiki": "/wiki/Lagos",
+    "longitude": 3.4,
+    "latitude": 6.45
+  },
+  {
+    "countryName": "Niue",
+    "countryWiki": "/wiki/Niue",
+    "name": "Alofi",
+    "wiki": "/wiki/Alofi",
+    "longitude": 169.91666666666666,
+    "latitude": -19.016666666666666
+  },
+  {
+    "countryName": "Norfolk Island",
+    "countryWiki": "/wiki/Norfolk_Island",
+    "name": "Kingston",
+    "wiki": "/wiki/Kingston,_Norfolk_Island",
+    "longitude": 167.95,
+    "latitude": -29.066666666666666
+  },
+  {
+    "countryName": "North Korea",
+    "countryWiki": "/wiki/North_Korea",
+    "name": "Pyongyang",
+    "wiki": "/wiki/Pyongyang",
+    "longitude": 125.78333333333333,
+    "latitude": 39
+  },
+  {
+    "countryName": "Norway",
+    "countryWiki": "/wiki/Norway",
+    "name": "Longyearbyen",
+    "wiki": "/wiki/Longyearbyen",
+    "longitude": 15.666666666666666,
+    "latitude": 78.2
+  },
+  {
+    "countryName": "Norway",
+    "countryWiki": "/wiki/Norway",
+    "name": "Oslo",
+    "wiki": "/wiki/Oslo",
+    "longitude": 10.75,
+    "latitude": 59.916666666666664
+  },
+  {
+    "countryName": "Oman",
+    "countryWiki": "/wiki/Oman",
+    "name": "Muscat",
+    "wiki": "/wiki/Muscat,_Oman",
+    "longitude": 58.63333333333333,
+    "latitude": 23.616666666666667
+  },
+  {
+    "countryName": "Oman",
+    "countryWiki": "/wiki/Oman",
+    "name": "Salalah",
+    "wiki": "/wiki/Salalah",
+    "longitude": 54.06666666666667,
+    "latitude": 17
+  },
+  {
+    "countryName": "Pakistan",
+    "countryWiki": "/wiki/Pakistan",
+    "name": "Islamabad",
+    "wiki": "/wiki/Islamabad",
+    "longitude": 73.13333333333334,
+    "latitude": 33.666666666666664
+  },
+  {
+    "countryName": "Pakistan",
+    "countryWiki": "/wiki/Pakistan",
+    "name": "Karachi",
+    "wiki": "/wiki/Karachi",
+    "longitude": 67.03333333333333,
+    "latitude": 24.85
+  },
+  {
+    "countryName": "Palau Islands",
+    "countryWiki": "/wiki/Palau_Islands",
+    "name": "Koror",
+    "wiki": "/wiki/Koror",
+    "longitude": 134.51666666666668,
+    "latitude": 7.35
+  },
+  {
+    "countryName": "Panama",
+    "countryWiki": "/wiki/Panama",
+    "name": "Panama City",
+    "wiki": "/wiki/Panama_City",
+    "longitude": -79.53333333333333,
+    "latitude": 8.966666666666667
+  },
+  {
+    "countryName": "Papua New Guinea",
+    "countryWiki": "/wiki/Papua_New_Guinea",
+    "name": "Port Moresby",
+    "wiki": "/wiki/Port_Moresby",
+    "longitude": 147.11666666666667,
+    "latitude": -9.5
+  },
+  {
+    "countryName": "Paraguay",
+    "countryWiki": "/wiki/Paraguay",
+    "name": "Asunción",
+    "wiki": "/wiki/Asunci%C3%B3n",
+    "longitude": -57.666666666666664,
+    "latitude": -25.266666666666666
+  },
+  {
+    "countryName": "Peru",
+    "countryWiki": "/wiki/Peru",
+    "name": "Arequipa",
+    "wiki": "/wiki/Arequipa",
+    "longitude": -71.53333333333333,
+    "latitude": -16.416666666666668
+  },
+  {
+    "countryName": "Peru",
+    "countryWiki": "/wiki/Peru",
+    "name": "Iquitos",
+    "wiki": "/wiki/Iquitos",
+    "longitude": -73.21666666666667,
+    "latitude": -3.85
+  },
+  {
+    "countryName": "Peru",
+    "countryWiki": "/wiki/Peru",
+    "name": "Lima",
+    "wiki": "/wiki/Lima",
+    "longitude": -77.05,
+    "latitude": -12.05
+  },
+  {
+    "countryName": "Philippines",
+    "countryWiki": "/wiki/Philippines",
+    "name": "Manila",
+    "wiki": "/wiki/Manila",
+    "longitude": 120.98333333333333,
+    "latitude": 14.583333333333334
+  },
+  {
+    "countryName": "Pitcairn Islands",
+    "countryWiki": "/wiki/Pitcairn_Islands",
+    "name": "Adamstown",
+    "wiki": "/wiki/Adamstown,_Pitcairn_Island",
+    "longitude": -130.08333333333334,
+    "latitude": -25.066666666666666
+  },
+  {
+    "countryName": "Poland",
+    "countryWiki": "/wiki/Poland",
+    "name": "Warsaw",
+    "wiki": "/wiki/Warsaw",
+    "longitude": 21,
+    "latitude": 52.25
+  },
+  {
+    "countryName": "Poland",
+    "countryWiki": "/wiki/Poland",
+    "name": "G'dansk",
+    "wiki": "/wiki/G%27dansk",
+    "longitude": 18.666666666666668,
+    "latitude": 54.38333333333333
+  },
+  {
+    "countryName": "Portugal",
+    "countryWiki": "/wiki/Portugal",
+    "name": "Lisbon",
+    "wiki": "/wiki/Lisbon",
+    "longitude": -9.133333333333333,
+    "latitude": 38.733333333333334
+  },
+  {
+    "countryName": "Puerto Rico",
+    "countryWiki": "/wiki/Puerto_Rico",
+    "name": "San Juan",
+    "wiki": "/wiki/San_Juan,_Puerto_Rico",
+    "longitude": -66.11666666666666,
+    "latitude": 18.466666666666665
+  },
+  {
+    "countryName": "Qatar",
+    "countryWiki": "/wiki/Qatar",
+    "name": "Doha",
+    "wiki": "/wiki/Doha",
+    "longitude": 51.6,
+    "latitude": 25.25
+  },
+  {
+    "countryName": "Republic of Congo",
+    "countryWiki": "/wiki/Republic_of_Congo",
+    "name": "Brazzaville",
+    "wiki": "/wiki/Brazzaville",
+    "longitude": 15.233333333333333,
+    "latitude": 4.233333333333333
+  },
+  {
+    "countryName": "Republic of Macedonia",
+    "countryWiki": "/wiki/Republic_of_Macedonia",
+    "name": "Skopje",
+    "wiki": "/wiki/Skopje",
+    "longitude": 21.466666666666665,
+    "latitude": 42
+  },
+  {
+    "countryName": "Réunion",
+    "countryWiki": "/wiki/R%C3%A9union",
+    "name": "Saint-Denis",
+    "wiki": "/wiki/Saint-Denis,_R%C3%A9union",
+    "longitude": 55.45,
+    "latitude": -20.866666666666667
+  },
+  {
+    "countryName": "Romania",
+    "countryWiki": "/wiki/Romania",
+    "name": "Bucharest",
+    "wiki": "/wiki/Bucharest",
+    "longitude": 26.1,
+    "latitude": 44.43333333333333
+  },
+  {
+    "countryName": "Russia",
+    "countryWiki": "/wiki/Russia",
+    "name": "Chita",
+    "wiki": "/wiki/Chita,_Zabaykalsky_Krai",
+    "longitude": 113.58333333333333,
+    "latitude": 52.05
+  },
+  {
+    "countryName": "Russia",
+    "countryWiki": "/wiki/Russia",
+    "name": "Krasnodar",
+    "wiki": "/wiki/Krasnodar",
+    "longitude": 39,
+    "latitude": 45.03333333333333
+  },
+  {
+    "countryName": "Russia",
+    "countryWiki": "/wiki/Russia",
+    "name": "Moscow",
+    "wiki": "/wiki/Moscow",
+    "longitude": 37.7,
+    "latitude": 55.75
+  },
+  {
+    "countryName": "Russia",
+    "countryWiki": "/wiki/Russia",
+    "name": "Omsk",
+    "wiki": "/wiki/Omsk",
+    "longitude": 73.36666666666666,
+    "latitude": 54.983333333333334
+  },
+  {
+    "countryName": "Russia",
+    "countryWiki": "/wiki/Russia",
+    "name": "Saint Petersburg",
+    "wiki": "/wiki/Saint_Petersburg",
+    "longitude": 30.333333333333332,
+    "latitude": 59.93333333333333
+  },
+  {
+    "countryName": "Russia",
+    "countryWiki": "/wiki/Russia",
+    "name": "Vladivostok",
+    "wiki": "/wiki/Vladivostok",
+    "longitude": 131.88333333333333,
+    "latitude": 43.15
+  },
+  {
+    "countryName": "Rwanda",
+    "countryWiki": "/wiki/Rwanda",
+    "name": "Kigali",
+    "wiki": "/wiki/Kigali",
+    "longitude": 30.066666666666666,
+    "latitude": -1.9333333333333333
+  },
+  {
+    "countryName": "Saint-Pierre and Miquelon",
+    "countryWiki": "/wiki/Saint-Pierre_and_Miquelon",
+    "name": "Saint-Pierre",
+    "wiki": "/wiki/Saint-Pierre,_Saint-Pierre_and_Miquelon",
+    "longitude": -56.18333333333333,
+    "latitude": 46.766666666666666
+  },
+  {
+    "countryName": "Saint Helena",
+    "countryWiki": "/wiki/Saint_Helena",
+    "name": "Jamestown",
+    "wiki": "/wiki/Jamestown,_Saint_Helena",
+    "longitude": -5.733333333333333,
+    "latitude": -15.933333333333334
+  },
+  {
+    "countryName": "Saint Kitts and Nevis",
+    "countryWiki": "/wiki/Saint_Kitts_and_Nevis",
+    "name": "Basseterre",
+    "wiki": "/wiki/Basseterre",
+    "longitude": -62.71666666666667,
+    "latitude": 17.3
+  },
+  {
+    "countryName": "Saint Lucia",
+    "countryWiki": "/wiki/Saint_Lucia",
+    "name": "Castries",
+    "wiki": "/wiki/Castries",
+    "longitude": -60.983333333333334,
+    "latitude": 14.016666666666667
+  },
+  {
+    "countryName": "Saint Vincent and the Grenadines",
+    "countryWiki": "/wiki/Saint_Vincent_and_the_Grenadines",
+    "name": "Kingstown",
+    "wiki": "/wiki/Kingstown",
+    "longitude": -61.233333333333334,
+    "latitude": 13.2
+  },
+  {
+    "countryName": "Samoa (Western Samoa)",
+    "countryWiki": "/wiki/Samoa",
+    "name": "Apia, Samoa",
+    "wiki": "/wiki/Apia,_Samoa",
+    "longitude": -171.75,
+    "latitude": -13.8
+  },
+  {
+    "countryName": "San Marino",
+    "countryWiki": "/wiki/San_Marino",
+    "name": "San Marino",
+    "wiki": "/wiki/San_Marino,_San_Marino",
+    "longitude": 12.433333333333334,
+    "latitude": 43.93333333333333
+  },
+  {
+    "countryName": "São Tomé and Príncipe",
+    "countryWiki": "/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+    "name": "Sao Tome",
+    "wiki": "/wiki/Sao_Tome",
+    "longitude": 6.716666666666667,
+    "latitude": 0.31666666666666665
+  },
+  {
+    "countryName": "Saudi Arabia",
+    "countryWiki": "/wiki/Saudi_Arabia",
+    "name": "Riyadh",
+    "wiki": "/wiki/Riyadh",
+    "longitude": 46.766666666666666,
+    "latitude": 24.65
+  },
+  {
+    "countryName": "Scotland",
+    "countryWiki": "/wiki/Scotland",
+    "name": "Glasgow",
+    "wiki": "/wiki/Glasgow",
+    "longitude": -4.25,
+    "latitude": 55.88333333333333
+  },
+  {
+    "countryName": "Senegal",
+    "countryWiki": "/wiki/Senegal",
+    "name": "Dakar",
+    "wiki": "/wiki/Dakar",
+    "longitude": -17.433333333333334,
+    "latitude": 14.666666666666666
+  },
+  {
+    "countryName": "Serbia",
+    "countryWiki": "/wiki/Serbia",
+    "name": "Belgrad",
+    "wiki": "/wiki/Belgrad",
+    "longitude": 20.5,
+    "latitude": 44.833333333333336
+  },
+  {
+    "countryName": "Seychelles",
+    "countryWiki": "/wiki/Seychelles",
+    "name": "Victoria",
+    "wiki": "/wiki/Victoria,_Seychelles",
+    "longitude": 55.46666666666667,
+    "latitude": -4.633333333333333
+  },
+  {
+    "countryName": "Sierra Leone",
+    "countryWiki": "/wiki/Sierra_Leone",
+    "name": "Freetown",
+    "wiki": "/wiki/Freetown",
+    "longitude": -13.25,
+    "latitude": 8.5
+  },
+  {
+    "countryName": "Singapore",
+    "countryWiki": "/wiki/Singapore",
+    "name": "Singapore",
+    "wiki": "/wiki/Singapore",
+    "longitude": 103.83333333333333,
+    "latitude": 1.3
+  },
+  {
+    "countryName": "Slovakia",
+    "countryWiki": "/wiki/Slovakia",
+    "name": "Bratislava",
+    "wiki": "/wiki/Bratislava",
+    "longitude": 17.166666666666668,
+    "latitude": 48.166666666666664
+  },
+  {
+    "countryName": "Slovenia",
+    "countryWiki": "/wiki/Slovenia",
+    "name": "Ljubljana",
+    "wiki": "/wiki/Ljubljana",
+    "longitude": 14.5,
+    "latitude": 46.06666666666667
+  },
+  {
+    "countryName": "Solomon Islands",
+    "countryWiki": "/wiki/Solomon_Islands",
+    "name": "Honiara",
+    "wiki": "/wiki/Honiara",
+    "longitude": 159.95,
+    "latitude": -9.466666666666667
+  },
+  {
+    "countryName": "Somalia",
+    "countryWiki": "/wiki/Somalia",
+    "name": "Mogadishu",
+    "wiki": "/wiki/Mogadishu",
+    "longitude": 45.35,
+    "latitude": 2.033333333333333
+  },
+  {
+    "countryName": "South Africa",
+    "countryWiki": "/wiki/South_Africa",
+    "name": "Cape Town",
+    "wiki": "/wiki/Cape_Town",
+    "longitude": 18.366666666666667,
+    "latitude": -35.916666666666664
+  },
+  {
+    "countryName": "South Africa",
+    "countryWiki": "/wiki/South_Africa",
+    "name": "Johannesburg",
+    "wiki": "/wiki/Johannesburg",
+    "longitude": 27.9,
+    "latitude": -26.133333333333333
+  },
+  {
+    "countryName": "South Africa",
+    "countryWiki": "/wiki/South_Africa",
+    "name": "Port Elizabeth",
+    "wiki": "/wiki/Port_Elizabeth",
+    "longitude": 25.6,
+    "latitude": -33.96666666666667
+  },
+  {
+    "countryName": "South Africa",
+    "countryWiki": "/wiki/South_Africa",
+    "name": "Pretoria",
+    "wiki": "/wiki/Pretoria",
+    "longitude": 28.2,
+    "latitude": -25.75
+  },
+  {
+    "countryName": "South Korea",
+    "countryWiki": "/wiki/South_Korea",
+    "name": "Seoul",
+    "wiki": "/wiki/Seoul",
+    "longitude": 127,
+    "latitude": 37.53333333333333
+  },
+  {
+    "countryName": "Spain",
+    "countryWiki": "/wiki/Spain",
+    "name": "Barcelona",
+    "wiki": "/wiki/Barcelona",
+    "longitude": 2.183333333333333,
+    "latitude": 41.38333333333333
+  },
+  {
+    "countryName": "Spain",
+    "countryWiki": "/wiki/Spain",
+    "name": "Madrid",
+    "wiki": "/wiki/Madrid",
+    "longitude": -3.6833333333333336,
+    "latitude": 40.4
+  },
+  {
+    "countryName": "Sri Lanka",
+    "countryWiki": "/wiki/Sri_Lanka",
+    "name": "Colombo",
+    "wiki": "/wiki/Colombo",
+    "longitude": 79.86666666666666,
+    "latitude": 6.916666666666667
+  },
+  {
+    "countryName": "Sudan",
+    "countryWiki": "/wiki/Sudan",
+    "name": "Khartoum",
+    "wiki": "/wiki/Khartoum",
+    "longitude": 32.53333333333333,
+    "latitude": 15.6
+  },
+  {
+    "countryName": "Suriname",
+    "countryWiki": "/wiki/Suriname",
+    "name": "Paramaribo",
+    "wiki": "/wiki/Paramaribo",
+    "longitude": -55.166666666666664,
+    "latitude": 5.833333333333333
+  },
+  {
+    "countryName": "Swaziland",
+    "countryWiki": "/wiki/Swaziland",
+    "name": "Mbabane",
+    "wiki": "/wiki/Mbabane",
+    "longitude": 31.133333333333333,
+    "latitude": -26.333333333333332
+  },
+  {
+    "countryName": "Sweden",
+    "countryWiki": "/wiki/Sweden",
+    "name": "Stockholm",
+    "wiki": "/wiki/Stockholm",
+    "longitude": 18.05,
+    "latitude": 59.333333333333336
+  },
+  {
+    "countryName": "Switzerland",
+    "countryWiki": "/wiki/Switzerland",
+    "name": "Berne",
+    "wiki": "/wiki/Berne",
+    "longitude": 7.45,
+    "latitude": 46.95
+  },
+  {
+    "countryName": "Switzerland",
+    "countryWiki": "/wiki/Switzerland",
+    "name": "Zürich",
+    "wiki": "/wiki/Z%C3%BCrich",
+    "longitude": 8.55,
+    "latitude": 47.36666666666667
+  },
+  {
+    "countryName": "Syria",
+    "countryWiki": "/wiki/Syria",
+    "name": "Damascus",
+    "wiki": "/wiki/Damascus",
+    "longitude": 36.3,
+    "latitude": 33.5
+  },
+  {
+    "countryName": "Tajikistan",
+    "countryWiki": "/wiki/Tajikistan",
+    "name": "Dushanbe",
+    "wiki": "/wiki/Dushanbe",
+    "longitude": 68.85,
+    "latitude": 38.63333333333333
+  },
+  {
+    "countryName": "Tanzania",
+    "countryWiki": "/wiki/Tanzania",
+    "name": "Dar es Salaam",
+    "wiki": "/wiki/Dar_es_Salaam",
+    "longitude": 39.3,
+    "latitude": -6.85
+  },
+  {
+    "countryName": "Tanzania",
+    "countryWiki": "/wiki/Tanzania",
+    "name": "Lindi",
+    "wiki": "/wiki/Lindi",
+    "longitude": 39.68333333333333,
+    "latitude": -10
+  },
+  {
+    "countryName": "Tanzania",
+    "countryWiki": "/wiki/Tanzania",
+    "name": "Zanzibar",
+    "wiki": "/wiki/Zanzibar",
+    "longitude": 39.333333333333336,
+    "latitude": -6.166666666666667
+  },
+  {
+    "countryName": "Thailand",
+    "countryWiki": "/wiki/Thailand",
+    "name": "Bangkok",
+    "wiki": "/wiki/Bangkok",
+    "longitude": 100.5,
+    "latitude": 13.733333333333333
+  },
+  {
+    "countryName": "Togo",
+    "countryWiki": "/wiki/Togo",
+    "name": "Lomé",
+    "wiki": "/wiki/Lom%C3%A9",
+    "longitude": 1.2166666666666668,
+    "latitude": 6.133333333333334
+  },
+  {
+    "countryName": "Tonga",
+    "countryWiki": "/wiki/Tonga",
+    "name": "Nukuʻalofa",
+    "wiki": "/wiki/Nuku%CA%BBalofa",
+    "longitude": -175.23333333333332,
+    "latitude": -21.15
+  },
+  {
+    "countryName": "Trinidad and Tobago",
+    "countryWiki": "/wiki/Trinidad_and_Tobago",
+    "name": "Port of Spain",
+    "wiki": "/wiki/Port_of_Spain",
+    "longitude": -61.516666666666666,
+    "latitude": 10.633333333333333
+  },
+  {
+    "countryName": "Tunisia",
+    "countryWiki": "/wiki/Tunisia",
+    "name": "Tunis",
+    "wiki": "/wiki/Tunis",
+    "longitude": 10.183333333333334,
+    "latitude": 36.8
+  },
+  {
+    "countryName": "Tunisia",
+    "countryWiki": "/wiki/Tunisia",
+    "name": "Sfax",
+    "wiki": "/wiki/Sfax",
+    "longitude": 10.766666666666667,
+    "latitude": 34.733333333333334
+  },
+  {
+    "countryName": "Turkey",
+    "countryWiki": "/wiki/Turkey",
+    "name": "Ankara",
+    "wiki": "/wiki/Ankara",
+    "longitude": 32.833333333333336,
+    "latitude": 39.916666666666664
+  },
+  {
+    "countryName": "Turkey",
+    "countryWiki": "/wiki/Turkey",
+    "name": "Istanbul",
+    "wiki": "/wiki/Istanbul",
+    "longitude": 28.966666666666665,
+    "latitude": 41.016666666666666
+  },
+  {
+    "countryName": "Turkey",
+    "countryWiki": "/wiki/Turkey",
+    "name": "Trabzon",
+    "wiki": "/wiki/Trabzon",
+    "longitude": 39.71666666666667,
+    "latitude": 41
+  },
+  {
+    "countryName": "Turkmenistan",
+    "countryWiki": "/wiki/Turkmenistan",
+    "name": "Ashkhabad",
+    "wiki": "/wiki/Ashkhabad",
+    "longitude": 58.4,
+    "latitude": 37.96666666666667
+  },
+  {
+    "countryName": "Turkmenistan",
+    "countryWiki": "/wiki/Turkmenistan",
+    "name": "Bereket",
+    "wiki": "/wiki/Bereket",
+    "longitude": 55.516666666666666,
+    "latitude": 39.233333333333334
+  },
+  {
+    "countryName": "Tuvalu",
+    "countryWiki": "/wiki/Tuvalu",
+    "name": "Funafuti",
+    "wiki": "/wiki/Funafuti",
+    "longitude": 179.21666666666667,
+    "latitude": -8.516666666666667
+  },
+  {
+    "countryName": "U.S. Virgin Islands",
+    "countryWiki": "/wiki/U.S._Virgin_Islands",
+    "name": "Charlotte Amalie",
+    "wiki": "/wiki/Charlotte_Amalie,_U.S._Virgin_Islands",
+    "longitude": -64.93333333333334,
+    "latitude": 18.366666666666667
+  },
+  {
+    "countryName": "Uganda",
+    "countryWiki": "/wiki/Uganda",
+    "name": "Kampala",
+    "wiki": "/wiki/Kampala",
+    "longitude": 35.416666666666664,
+    "latitude": 0.31666666666666665
+  },
+  {
+    "countryName": "Ukraine",
+    "countryWiki": "/wiki/Ukraine",
+    "name": "Kiev",
+    "wiki": "/wiki/Kiev",
+    "longitude": 30.716666666666665,
+    "latitude": 50.416666666666664
+  },
+  {
+    "countryName": "United Arab Emirates",
+    "countryWiki": "/wiki/United_Arab_Emirates",
+    "name": "Abu Dhabi",
+    "wiki": "/wiki/Abu_Dhabi",
+    "longitude": 54.36666666666667,
+    "latitude": 24.466666666666665
+  },
+  {
+    "countryName": "United Arab Emirates",
+    "countryWiki": "/wiki/United_Arab_Emirates",
+    "name": "Dubai",
+    "wiki": "/wiki/Dubai",
+    "longitude": 55.333333333333336,
+    "latitude": 25.266666666666666
+  },
+  {
+    "countryName": "United States",
+    "countryWiki": "/wiki/United_States",
+    "name": "Chicago",
+    "wiki": "/wiki/Chicago",
+    "longitude": -87.65,
+    "latitude": 41.88333333333333
+  },
+  {
+    "countryName": "United States",
+    "countryWiki": "/wiki/United_States",
+    "name": "Honolulu",
+    "wiki": "/wiki/Honolulu,_Hawaii",
+    "longitude": -157.81666666666666,
+    "latitude": 21.3
+  },
+  {
+    "countryName": "United States",
+    "countryWiki": "/wiki/United_States",
+    "name": "Houston",
+    "wiki": "/wiki/Houston,_Texas",
+    "longitude": -95.36666666666666,
+    "latitude": 29.75
+  },
+  {
+    "countryName": "United States",
+    "countryWiki": "/wiki/United_States",
+    "name": "Los Angeles",
+    "wiki": "/wiki/Los_Angeles",
+    "longitude": -118.25,
+    "latitude": 34.05
+  },
+  {
+    "countryName": "United States",
+    "countryWiki": "/wiki/United_States",
+    "name": "New York City",
+    "wiki": "/wiki/New_York_City",
+    "longitude": -74,
+    "latitude": 40.71666666666667
+  },
+  {
+    "countryName": "Uruguay",
+    "countryWiki": "/wiki/Uruguay",
+    "name": "Montevideo",
+    "wiki": "/wiki/Montevideo",
+    "longitude": -56.18333333333333,
+    "latitude": -34.88333333333333
+  },
+  {
+    "countryName": "Uzbekistan",
+    "countryWiki": "/wiki/Uzbekistan",
+    "name": "Tashkent",
+    "wiki": "/wiki/Tashkent",
+    "longitude": 69.21666666666667,
+    "latitude": 41.266666666666666
+  },
+  {
+    "countryName": "Vanuatu",
+    "countryWiki": "/wiki/Vanuatu",
+    "name": "Port Vila",
+    "wiki": "/wiki/Port_Vila",
+    "longitude": 168.3,
+    "latitude": -17.75
+  },
+  {
+    "countryName": "Venezuela",
+    "countryWiki": "/wiki/Venezuela",
+    "name": "Caracas",
+    "wiki": "/wiki/Caracas",
+    "longitude": -66.93333333333334,
+    "latitude": 10.5
+  },
+  {
+    "countryName": "Venezuela",
+    "countryWiki": "/wiki/Venezuela",
+    "name": "Mérida",
+    "wiki": "/wiki/M%C3%A9rida,_M%C3%A9rida",
+    "longitude": -71.13333333333334,
+    "latitude": 8.4
+  },
+  {
+    "countryName": "Vietnam",
+    "countryWiki": "/wiki/Vietnam",
+    "name": "Hanoi",
+    "wiki": "/wiki/Hanoi",
+    "longitude": 105.86666666666666,
+    "latitude": 21.016666666666666
+  },
+  {
+    "countryName": "Vietnam",
+    "countryWiki": "/wiki/Vietnam",
+    "name": "Ho Chi Minh",
+    "wiki": "/wiki/Ho_Chi_Minh",
+    "longitude": 106.71666666666667,
+    "latitude": 10.766666666666667
+  },
+  {
+    "countryName": "Wallis and Futuna",
+    "countryWiki": "/wiki/Wallis_and_Futuna",
+    "name": "Mata-Utu",
+    "wiki": "/wiki/Mata-Utu",
+    "longitude": -176.2,
+    "latitude": -13.366666666666667
+  },
+  {
+    "countryName": "Yemen",
+    "countryWiki": "/wiki/Yemen",
+    "name": "Sana'a",
+    "wiki": "/wiki/Sana%27a",
+    "longitude": 44.233333333333334,
+    "latitude": 15.4
+  },
+  {
+    "countryName": "Zambia",
+    "countryWiki": "/wiki/Zambia",
+    "name": "Lusaka",
+    "wiki": "/wiki/Lusaka",
+    "longitude": 28.333333333333332,
+    "latitude": -15.433333333333334
+  },
+  {
+    "countryName": "Zambia",
+    "countryWiki": "/wiki/Zambia",
+    "name": "Mbala",
+    "wiki": "/wiki/Mbala,_Zambia",
+    "longitude": 34.2,
+    "latitude": 1.0666666666666667
+  },
+  {
+    "countryName": "Zimbabwe",
+    "countryWiki": "/wiki/Zimbabwe",
+    "name": "Harare",
+    "wiki": "/wiki/Harare",
+    "longitude": 31.5,
+    "latitude": -17.833333333333332
+  }
+]

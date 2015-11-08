@@ -1,0 +1,16 @@
+{
+  "name": "example-cities",
+  "version": "0.0.0",
+  "description": "An list of common cities around the world, their longitude/latitude and wikipedia link. This module is indended to be used only for examples / demos.",
+  "main": "cities.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node index.js"
+  },
+  "author": "Victor Powell <vicpaow@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.65.0"
+  }
+}
